@@ -1,0 +1,3 @@
+ORB Parametre Analizi
+nfeatures=500  -> Keypoints: 500, Matches: 290
+nfeatures=1000 -> Keypoints: 1000, Matches: 537

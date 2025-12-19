@@ -1,0 +1,17 @@
+Image	Noise	Method	MSE	PSNR(dB)
+img1	Gaussian	Noisy	213.69	24.83
+img1	Gaussian	Mean	29.33	33.46
+img1	Gaussian	GaussianBlur	23.32	34.45
+img1	Gaussian	Median	22.22	34.66
+img1	SaltPepper	Noisy	415.48	21.95
+img1	SaltPepper	Mean	52.50	30.93
+img1	SaltPepper	GaussianBlur	40.90	32.01
+img1	SaltPepper	Median	6.43	40.05
+img2	Gaussian	Noisy	221.03	24.69
+img2	Gaussian	Mean	34.10	32.80
+img2	Gaussian	GaussianBlur	27.37	33.76
+img2	Gaussian	Median	27.47	33.74
+img2	SaltPepper	Noisy	381.90	22.31
+img2	SaltPepper	Mean	52.87	30.90
+img2	SaltPepper	GaussianBlur	41.76	31.92
+img2	SaltPepper	Median	11.58	37.49
