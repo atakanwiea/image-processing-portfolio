@@ -9,7 +9,6 @@ build/
 dist/
 *.egg-info/
 .DS_Store
-outputs/
 images/
 *.sqlite3
 raporsal.rtf
