@@ -9,7 +9,6 @@ build/
 dist/
 *.egg-info/
 .DS_Store
-images/
 *.sqlite3
 raporsal.rtf
 deneme1.pdf
