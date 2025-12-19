@@ -1,4 +1,4 @@
-# Görüntü İşleme Projesi — Atakan Wiea
+# Görüntü İşleme Projesi 
 
 Kısa açıklama: Bu repoda bir görüntü işleme ödevi/projesi bulunuyor. Çalışma akademik kapsamlıdır ve ödev kapsamında istenen adımlar uygulandı.
 
